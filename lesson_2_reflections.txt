@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+	> Initializing a repository creates a .git folder within the repository. This is required in order for git  	to track changes.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	> Items in the staging area and repository are tracked, the ones in the working directory are not.
+	> I creates a restore point if needed.
+
