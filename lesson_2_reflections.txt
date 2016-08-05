@@ -6,3 +6,5 @@ How is the staging area different from the working directory and the repository?
 	> Items in the staging area and repository are tracked, the ones in the working directory are not.
 	> I creates a restore point if needed.
 
+How can you use the staging area to make sure you have one commit per logical change?
+  	> Upon adding new logical change, use 'git status' command to ensure there are no multiple pending non 		commited changes then proceed with commit.
