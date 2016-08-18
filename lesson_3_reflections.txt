@@ -18,3 +18,6 @@ What is the benefit of having a copy of the last known state of the remote store
 When there is no access to remote, the last known state of the remote stored locally can be used to check changes.
 
 ----
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+One could collaborate using version control tools other than Git or Github. Git and Github seem to require minimal hardware and so would be easier than using other commercial version control tools that may require much expensive platforms.
