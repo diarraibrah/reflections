@@ -21,3 +21,8 @@ When there is no access to remote, the last known state of the remote stored loc
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 One could collaborate using version control tools other than Git or Github. Git and Github seem to require minimal hardware and so would be easier than using other commercial version control tools that may require much expensive platforms.
+
+----
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+In collaborative environment, one would want to make changes in a separate branch and publish the branch for review and suggestions by peers before making changes to the master branch. This approach would avoid too many commits to the master branch.
